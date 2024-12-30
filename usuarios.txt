@@ -1,0 +1,2 @@
+ADM;758;ADM;adm@email;adm12345
+Cliente;113;caio;caio@;chocolate
