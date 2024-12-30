@@ -39,7 +39,7 @@ Desenvolvemos, em colaboração com [Caio Balieiro](https://github.com/CaioBalie
 1. **Clone o Repositório:**
 
    ```
-   git clone https://github.com/GabrielApolinario08/Projeto_POO
+   git clone https://github.com/CarlosSerafimm/projeto_POO
    ```
 2. **Navegue até o Diretório do Projeto:**
 
